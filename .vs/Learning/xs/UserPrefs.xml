@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{28C2B92D-86AE-4C33-AA7A-C1B64E417FAF}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Learning/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="Learning/Controllers/HomeController.cs" Line="13" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Learning" expanded="True">
+            <Node name="Learning" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Learning PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+</Properties>
